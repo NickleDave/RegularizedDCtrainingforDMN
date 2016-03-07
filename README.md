@@ -4,7 +4,7 @@ This package contains functions to train dendrite morphological neurons based on
 
 Please cite it if you intend to use this code. 
 
-# Installation and Demo
+# Installation and Animated demo
 It is not needed. Just download files where you want and run "demo_for_training" on Matlab R2015a or later.
 
 See the video for a briefly explanation of training algorithm YouTube
