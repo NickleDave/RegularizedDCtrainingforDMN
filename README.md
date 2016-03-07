@@ -8,4 +8,7 @@ Please cite it if you intend to use this code.
 It is not needed. Just download files where you want and run "demo" on Matlab R2015a or later.
 
 # Experiments
-You can reproduce the experimentals results for the paper. 
+You can reproduce the experimental results for the paper. 
+Run ".m" to 
+Run ".m" to generate the regularized curves 
+Run "..m" to generate the reguralrized curves 
