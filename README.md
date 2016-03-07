@@ -16,3 +16,6 @@ Run ".m" to generate the regularized curves
 Run "..m" to generate the reguralrized curves 
 
 Please see the code for further details. 
+
+# Acknowledgments
+The authors would like to acknowledge the support for this research work to the UPIITA and the CIC, both schools belong to National Polytechnic Institute (IPN), Mexico. This work was economically supported by SIP-IPN under grant 20160945 and the CONACYT under grant 65.
